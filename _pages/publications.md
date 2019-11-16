@@ -32,46 +32,14 @@ table:nth-of-type(4) td:nth-of-type(1) {
 
 ## Conference Papers
 
-| ![WDK](/images/publications_wdk.png)  | **The Wearables Development Toolkit: An Integrated Development Environment for Activity Recognition Applications**.  <br>**Haladjian, J.** <br> In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 3(4).<br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
-| ![WDK](/images/publications_wdk.png)  | **The Wearables Development Toolkit: An Integrated Development Environment for Activity Recognition Applications**.  <br>**Haladjian, J.** <br> In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 3(4).<br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
-
-
-<table>
-<tr>
-  <th> <img src="/images/publications_wdk.png" height="300" width="300"/> </th>
-  <th>Echterhoff, J., <b>Haladjian, J.</b>, & Brügge, B. (2018). Gait Analysis in Horse Sports. In Proceedings of the Fifth International Conference on Animal-Computer Interaction (p. 3). ACM. </th>
-</tr>
-
-<tr>
-<th> <img src="/images/publications_wdk.png" height="300" width="300"/> </th>
-  <th> Echterhoff, J., <b>Haladjian, J.</b>, & Brügge, B. (2018). Gait and Jump Classification in Modern Equestrian Sports. In Proceedings of the 2018 ACM International Symposium on Wearable Computers (pp. 88–91). ACM. </th>
-</tr>
-
-<tr>
-<th> <img src="/images/publications_wdk.png" height="300" width="300"/> </th>
-  <th> <b>Haladjian, J.</b>, Bredies, K., & Brügge, B. (2018). KneeHapp Textile: A Smart Textile System for Rehabilitation of Knee Injuries. In Proceedings of the 15th International Conference on Wearable and Implantable Body Sensor Networks (BSN) (pp. 9–12). IEEE. </th>
-</tr>
-
-<tr>
-<th> <img src="/images/publications_wdk.png" height="300" width="300"/> </th>
-  <th> <b>Haladjian, J.</b> Ermis, A., Hodaie, Z., & Brügge, B. (2017). iPig: Towards Tracking the Behavior of Free-roaming Pigs. In Proceedings of the Fourth International Conference on Animal-Computer Interaction (pp. 10:1--10:5). ACM. </th>
-</tr>
-
-<tr>
-<th> <img src="/images/publications_wdk.png" height="300" width="300"/> </th>
-  <th> <b>Haladjian, J.</b>, Hodaie, Z., Nüske, S., & Brügge, B. (2017). Gait Anomaly Detection in Dairy Cattle. In Proceedings of the Fourth International Conference on Animal-Computer Interaction (pp. 8:1--8:8). ACM. </th>
-</tr>
-
-<tr>
-<th> <img src="/images/publications_wdk.png" height="300" width="300"/> </th>
-  <th> <b>Haladjian, J.</b>, Scheuermann, C., Bredies, K., & Brügge, B. (2017). A Smart Textile Sleeve for Rehabilitation of Knee Injuries. In Proceedings of the 2017 ACM International Symposium on Wearable Computers (pp. 49–52). ACM. </th>
-</tr>
-
-<tr>
-<th> <img src="/images/publications_wdk.png" height="300" width="300"/> </th>
-  <th> <pre><b>Haladjian, J.</b> </pre>, Bredies, K., & Brügge, B. (2016). Interactex: An integrated development environment for smart textiles. In Proceedings of the 2016 ACM International Symposium on Wearable Computers (pp. 8-15). ACM. </th>
-</tr>
-</table>
+| ![WDK](/images/publications_wdk.png)  | **The Wearables Development Toolkit: An Integrated Development Environment for Activity Recognition Applications**. <br> **Haladjian, J.** <br> Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 3(4).<br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
+| ![WDK](/images/publications_wdk.png)  | **Gait Analysis in Horse Sports**. <br>  Echterhoff, J., **Haladjian, J.**, & Brügge, B. <br> Proceedings of the Fifth International Conference on Animal-Computer Interaction (p. 3). ACM, (2018)<br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
+| ![WDK](/images/publications_wdk.png)  | **Gait and Jump Classification in Modern Equestrian Sports**. <br>  Echterhoff, J., **Haladjian, J.**, & Brügge, B. <br> Proceedings of the 2018 ACM International Symposium on Wearable Computers (pp. 88–91). ACM. (2018)<br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
+| ![WDK](/images/publications_wdk.png)  | **KneeHapp Textile: A Smart Textile System for Rehabilitation of Knee Injuries**. <br>  **Haladjian, J.**, Bredies, K., & Brügge, B. <br> Proceedings of the 15th International Conference on Wearable and Implantable Body Sensor Networks (BSN) (pp. 9–12). IEEE)<br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
+| ![WDK](/images/publications_wdk.png)  | **iPig: Towards Tracking the Behavior of Free-roaming Pigs**. <br> **Haladjian, J.**, Ermis, A., Hodaie, Z., & Brügge, B. <br> Proceedings of the Fourth International Conference on Animal-Computer Interaction (pp. 10:1--10:5). ACM (2017)<br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
+| ![WDK](/images/publications_wdk.png)  | **Gait Anomaly Detection in Dairy Cattle**. <br> **Haladjian, J.**, Hodaie, Z., Nüske, S., & Brügge, B. <br> Proceedings of the Fourth International Conference on Animal-Computer Interaction (pp. 8:1--8:8). ACM (2017)<br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
+| ![WDK](/images/publications_wdk.png)  | **A Smart Textile Sleeve for Rehabilitation of Knee Injuries.**. <br>  **Haladjian, J.**, Scheuermann, C., Bredies, K., & Brügge, B. <br> Proceedings of the 2017 ACM International Symposium on Wearable Computers (pp. 49–52). ACM. (2017)<br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
+| ![WDK](/images/publications_wdk.png)  | **Interactex: An integrated development environment for smart textiles**. <br>  **Haladjian, J.**, Bredies, K., & Brügge, B. <br> Proceedings of the 2016 ACM International Symposium on Wearable Computers (pp. 8-15). ACM. (2016)<br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
 
 
 ## Journal Articles

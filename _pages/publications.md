@@ -59,17 +59,17 @@ Find me on [Google Scholar](https://scholar.google.de/citations?user=JHgSzRoAAAA
 ## Journal Articles
 <table>
 <tr>
-<th> <img src="/images/publications_wdk.png" height="300" width="300"> </img> </th>
+<th> <img src="/images/publications_wdk.png" height="300" width="300"/>  </th>
   <th><b>Haladjian, J.</b> (2019). The Wearables Development Toolkit: An Integrated Development Environment for Activity Recognition Applications. In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 3(4).</th>
 </tr>
 
 <tr>
-<th> <img src="/images/publications_wdk.png" height="300" width="300"> </img> </th>
+<th> <img src="/images/publications_wdk.png" height="300" width="300"/> </th>
   <th> <b>Haladjian, J.</b>, Schlabbers, D., Taheri, S., Tharr, M., & Brügge, B. (2019). Sensor-based Detection and Classification of Soccer Goalkeeper Training Exercises. In Proceedings of the ACM Transactions on Internet of Things. </th>
 </tr>
 
 <tr>
-<th> <img src="/images/publications_wdk.png" height="300" width="300"> </img> </th>
+<th> <img src="/images/publications_wdk.png" height="300" width="300"/> </th>
   <th> <b>Haladjian, J.</b>, Haug, J., Nüske, S., & Brügge, B. (2018). A Wearable Sensor System for Lameness Detection in Dairy Cattle. Multimodal Technologies and Interaction, 2(2), 27. </th>
 </tr>
 </table>
@@ -78,17 +78,17 @@ Find me on [Google Scholar](https://scholar.google.de/citations?user=JHgSzRoAAAA
 
 <table>
 <tr>
-<th> <img src="/images/publications_wdk.png" height="300" width="300"> </img> </th>
+<th> <img src="/images/publications_wdk.png" height="300" width="300"/> </th>
   <th><b>Haladjian, J.</b> (2016).  The Wearables Development Toolkit (Habilitation, Technische Universität München).</th>
 </tr>
 
 <tr>
-<th> <img src="/images/publications_wdk.png" height="300" width="300"> </img> </th>
+<th> <img src="/images/publications_wdk.png" height="300" width="300"/> </th>
   <th><b>Haladjian, J.</b> (2016). TangoHapps: An Integrated Development Environment for Smart Textiles (Doctoral dissertation, Technische Universität München).</th>
 </tr>
 
 <tr>
-<th> <img src="/images/publications_wdk.png" height="300" width="300"> </img> </th>
+<th> <img src="/images/publications_wdk.png" height="300" width="300"/> </th>
   <th><b>Haladjian, J.</b> (2011). A quick prototyping tool for serious games with real time physics (Master thesis, Technische Universität München).</th>
 </tr>
 

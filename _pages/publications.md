@@ -38,8 +38,3 @@ author_profile: true
 </tr>
 </table>
 
-|  | **Haladjian, J.** (2016). TangoHapps: An Integrated Development Environment for Smart Textiles (Doctoral dissertation, Technische Universität München).  |
-|  | **Haladjian, J.**,  |   A quick prototyping tool for serious games with real time physics         
-Master’s Thesis (M.Sc.), Technische Universität München, September 2011.              |
-|   | **Haladjian, J.**, The Wearables Development Toolkit  Habilitation (habil.) 
-Technische Universität München, January 2020.   |

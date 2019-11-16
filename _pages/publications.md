@@ -19,7 +19,6 @@ Find me on [Google Scholar](https://scholar.google.de/citations?user=JHgSzRoAAAA
 
 ## Conference Papers
 
-<pre>
 <table>
 <tr>
   <th> <img src="/images/publications_wdk.png" height="300" width="300"/> </th>
@@ -53,10 +52,10 @@ Find me on [Google Scholar](https://scholar.google.de/citations?user=JHgSzRoAAAA
 
 <tr>
 <th> <img src="/images/publications_wdk.png" height="300" width="300"/> </th>
-  <th> <b>Haladjian, J.</b>, Bredies, K., & Brügge, B. (2016). Interactex: An integrated development environment for smart textiles. In Proceedings of the 2016 ACM International Symposium on Wearable Computers (pp. 8-15). ACM. </th>
+  <th> <pre><b>Haladjian, J.</b> </pre>, Bredies, K., & Brügge, B. (2016). Interactex: An integrated development environment for smart textiles. In Proceedings of the 2016 ACM International Symposium on Wearable Computers (pp. 8-15). ACM. </th>
 </tr>
 </table>
-</pre>
+
 
 ## Journal Articles
 <table>
@@ -81,7 +80,7 @@ Find me on [Google Scholar](https://scholar.google.de/citations?user=JHgSzRoAAAA
 <table>
 <tr>
 <th> <img src="/images/publications_wdk.png" height="300" width="300"/> </th>
-  <th><b>Haladjian, J.</b> (2016).  The Wearables Development Toolkit (Habilitation, Technische Universität München).</th>
+  <th><b>Haladjian, J.</b> (2020).  The Wearables Development Toolkit (Habilitation, Technische Universität München).</th>
 </tr>
 
 <tr>

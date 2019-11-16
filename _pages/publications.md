@@ -18,9 +18,11 @@ author_profile: true
 Find me on [Google Scholar](https://scholar.google.de/citations?user=JHgSzRoAAAAJ&hl=en) for a detailed list of my publications.
 
 ## Conference Papers
+
+<pre>
 <table>
 <tr>
-<th> <img src="/images/publications_wdk.png" height="300" width="300"/> </th>
+  <th> <img src="/images/publications_wdk.png" height="300" width="300"/> </th>
   <th>Echterhoff, J., <b>Haladjian, J.</b>, & Brügge, B. (2018). Gait Analysis in Horse Sports. In Proceedings of the Fifth International Conference on Animal-Computer Interaction (p. 3). ACM. </th>
 </tr>
 
@@ -54,7 +56,7 @@ Find me on [Google Scholar](https://scholar.google.de/citations?user=JHgSzRoAAAA
   <th> <b>Haladjian, J.</b>, Bredies, K., & Brügge, B. (2016). Interactex: An integrated development environment for smart textiles. In Proceedings of the 2016 ACM International Symposium on Wearable Computers (pp. 8-15). ACM. </th>
 </tr>
 </table>
-
+</pre>
 
 ## Journal Articles
 <table>

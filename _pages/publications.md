@@ -32,7 +32,7 @@ table:nth-of-type(4) td:nth-of-type(1) {
 
 ## Conference Papers
 
-| ![WDK](/images/publications_wdk.png)  | **The Wearables Development Toolkit: An Integrated Development Environment for Activity Recognition Applications**. <br> **Haladjian, J.** <br> Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 3(4).<br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
+
 | ![WDK](/images/publications_wdk.png)  | **Gait Analysis in Horse Sports**. <br>  Echterhoff, J., **Haladjian, J.**, & Brügge, B. <br> Proceedings of the Fifth International Conference on Animal-Computer Interaction (p. 3). ACM, (2018)<br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
 | ![WDK](/images/publications_wdk.png)  | **Gait and Jump Classification in Modern Equestrian Sports**. <br>  Echterhoff, J., **Haladjian, J.**, & Brügge, B. <br> Proceedings of the 2018 ACM International Symposium on Wearable Computers (pp. 88–91). ACM. (2018)<br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
 | ![WDK](/images/publications_wdk.png)  | **KneeHapp Textile: A Smart Textile System for Rehabilitation of Knee Injuries**. <br>  **Haladjian, J.**, Bredies, K., & Brügge, B. <br> Proceedings of the 15th International Conference on Wearable and Implantable Body Sensor Networks (BSN) (pp. 9–12). IEEE)<br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
@@ -43,29 +43,23 @@ table:nth-of-type(4) td:nth-of-type(1) {
 
 
 ## Journal Articles
-<table>
-<tr>
-<th> <img src="/images/publications_wdk.png" height="300" width="300"/>  </th>
-  <th><b>Haladjian, J.</b> (2019). The Wearables Development Toolkit: An Integrated Development Environment for Activity Recognition Applications. In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 3(4).</th>
-</tr>
+| ![WDK](/images/publications_wdk.png)  | **The Wearables Development Toolkit: An Integrated Development Environment for Activity Recognition Applications** <br> **Haladjian, J.** <br> Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 3(4).<br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
+| ![WDK](/images/publications_wdk.png)  | **Sensor-based Detection and Classification of Soccer Goalkeeper Training Exercises**. <br> **Haladjian, J.**, Schlabbers, D., Taheri, S., Tharr, M., & Brügge, B. <br> to appear in Proceedings of the ACM Transactions on Internet of Things. <br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
+| ![WDK](/images/publications_wdk.png)  | **A Wearable Sensor System for Lameness Detection in Dairy Cattle**. <br> **Haladjian, J.**, Haug, J., Nüske, S., & Brügge, B. <br> Multimodal Technologies and Interaction, 2(2), 27.<br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
 
-<tr>
-<th> <img src="/images/publications_wdk.png" height="300" width="300"/> </th>
-  <th> <b>Haladjian, J.</b>, Schlabbers, D., Taheri, S., Tharr, M., & Brügge, B. (2019). Sensor-based Detection and Classification of Soccer Goalkeeper Training Exercises. In Proceedings of the ACM Transactions on Internet of Things. </th>
-</tr>
-
-<tr>
-<th> <img src="/images/publications_wdk.png" height="300" width="300"/> </th>
-  <th> <b>Haladjian, J.</b>, Haug, J., Nüske, S., & Brügge, B. (2018). A Wearable Sensor System for Lameness Detection in Dairy Cattle. Multimodal Technologies and Interaction, 2(2), 27. </th>
-</tr>
-</table>
 
 ## Theses
 
+| ![WDK](/images/publications_wdk.png)  | **The Wearables Development Toolkit <br> Habilitation (habil.), Technische Universität München)** <br> submitted**. <br> **Haladjian, J.** <br> Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 3(4).<br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
+
+| ![WDK](/images/publications_wdk.png)  | **The Wearables Development Toolkit: An Integrated Development Environment for Activity Recognition Applications**. <br> **Haladjian, J.** <br> Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 3(4).<br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
+
+| ![WDK](/images/publications_wdk.png)  | **The Wearables Development Toolkit: An Integrated Development Environment for Activity Recognition Applications**. <br> **Haladjian, J.** <br> Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 3(4).<br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
+
 <table>
 <tr>
 <th> <img src="/images/publications_wdk.png" height="300" width="300"/> </th>
-  <th><b>Haladjian, J.</b> (2020).  The Wearables Development Toolkit (Habilitation, Technische Universität München).</th>
+<th><b>Haladjian, J.</b> (2020).  
 </tr>
 
 <tr>

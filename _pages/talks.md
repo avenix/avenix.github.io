@@ -7,23 +7,24 @@ author_profile: true
 
 # Conferences / Workshops / Invited Talks
 
-* Feb 2019 <br> Teaching Wearable Device Development with the Wearables Development Toolkit. 2nd Workshop on Innovative Software Engineering in Education at Multikonferenz Softwareengineering & Management (paper presentation) *
-* Jan 2019<br>Development Tools for Wearable Applications. Ubiquitous Media Technology Lab at Deutsche Forschungsinstitut für Künstliche Intelligenz (invited talk)
-* Oct 2018<br>Rapid Prototyping of Smart Textiles. ACM Intelligent User Interfaces Summer School at Haifa, Israel. (invited talk)
-* Oct 2018<br>Wearable Sensors for Patients. Machine Learning for NeuroRehabilitation workshop at International Conference on NeuroRehabilitation (paper presentation)
-* Oct 2018<br>IPRA: Real-Time Face Recognition on Smart Glasses with Fog Computing. Second Workshop on Eye Wear Computing at International Symposium on Wearable Computers (paper presentation)
-* Aug 2018<br>Wearable Sensor Applications for Humans and Animals. BioMediTech Department at Tampere University of Technology (invited talk)
-* Jul 2018<br>Tragbare Sensortechnologien fuer Menschen und Tiere. RFID Netzwerkabend - Fachkonferenz (invited talk)
-* Jul 2018<br>Wearable Technologies for Patients. Neuro-Kopf-Zentrum at Klinikum Rechts der Isar (invited talk)
-* May 2018<br>Neue Sensorentechnologien fuer Patienten. Fachkonferenz at Münchner Kreis (invited talk)
-* Mar 2018<br>Wearable technology to support and assess rehabilitation after knee and hip surgeries. Body Sensor Networks (invited talk)
-* Mar 2018<br>Wearable Device Applications for Humans and Animals. Human Computer Interaction Institute at Carnegie Mellon University (invited talk)
-* Nov 2017<br>Gait Anomaly Detection in Dairy Cattle. Animal Computer Interaction conference (paper presentation)
-* Nov 2017<br>iPig: Towards Tracking the Behavior of Free-roaming Pigs. Animal Computer Interaction conference (paper presentation)
-* Sept 2016<br>Interactex: An Integrated Development Environment for Smart Textiles. International Symposium on Wearable Computers (paper presentation) 
-* Sept 2015<br>TangoHapps: An Integrated Development Environment for Smart Garments. International Symposium on Wearable Computers (doctoral symposium paper presentation)
-* Jun 2015<br>KneeHapp: A Bandage for Rehabilitation of Knee Injuries. Intel Santa Clara (invited talk)
-* Mar 2015<br>Schnelle Prototypen fuer intelligente Kleidung. Multikonferenz Softwareengineering & Management (keynote)
-*Nov 2014<br>End-user development of eTextiles. Smart Space Orchestration Workshop with Intel Edison (invited talk)
-* Mar 2012<br>A quick prototyping tool for serious games with real time physics. IADIS Mobile Learning (paper presentation)
+* **Animal Computer Interaction** <br> Haifa (Israel) November 2019
+* **Teaching Wearable Device Development with the Wearables Development Toolkit** <br> 2nd Workshop on Innovative Software Engineering in Education at Multikonferenz Softwareengineering & Management paper presentation, Stuttgart (Germany) February 2019
+* **Development Tools for Wearable Applications** <br> Ubiquitous Media Technology Lab at Deutsche Forschungsinstitut für Künstliche Intelligenz (invited talk), Saarbrücken (Germany), January 2019
+* **Rapid Prototyping of Smart Textiles** <br> ACM Intelligent User Interfaces Summer School (invited talk), Haifa (Israel) October 2018
+* **Wearable Sensors for Patients** <br> Machine Learning for NeuroRehabilitation workshop at International Conference on NeuroRehabilitation (paper presentation), Pisa (Italy), October 2018
+* **IPRA: Real-Time Face Recognition on Smart Glasses with Fog Computing** <br> Second Workshop on Eye Wear Computing at International Symposium on Wearable Computers (paper presentation), Singapore, October 2018
+* **Wearable Sensor Applications for Humans and Animals** <br> BioMediTech Department at Tampere University of Technology (invited talk), Tampere (Finland), August 2018
+* **Tragbare Sensortechnologien fuer Menschen und Tiere** <br> RFID Netzwerkabend - Fachkonferenz (invited talk), Munich (Germany), July 2018
+* **Wearable Technologies for Patients** <br> Neuro-Kopf-Zentrum at Klinikum Rechts der Isar (invited talk), Munich (Germany), July 2018
+* **Neue Sensorentechnologien fuer Patienten** <br> Fachkonferenz at Münchner Kreis (invited talk), Munich (Germany), May 2018
+* **Wearable technology to support and assess rehabilitation after knee and hip surgeries**. Body Sensor Networks (invited talk), Las Vegas (USA), March 2018
+* **Wearable Device Applications for Humans and Animals** <br> Human Computer Interaction Institute at Carnegie Mellon University (invited talk), Pittsburgh (USA), March 2018
+* **Gait Anomaly Detection in Dairy Cattle** <br> Animal Computer Interaction conference (paper presentation), Milton Keynes (United Kingdom), November 2017
+* **iPig: Towards Tracking the Behavior of Free-roaming Pigs** <br> Animal Computer Interaction conference (paper presentation), Milton Keynes (United Kingdom), November 2017
+* **Interactex: An Integrated Development Environment for Smart Textiles** <br> International Symposium on Wearable Computers (paper presentation), Heidelberg (Germany) September 2016
+* **TangoHapps: An Integrated Development Environment for Smart Garments.** <br> International Symposium on Wearable Computers (doctoral symposium paper presentation), Osaka (Japan), September 2015
+* **KneeHapp: A Bandage for Rehabilitation of Knee Injuries**. (invited talk at Intel), Santa Clara, USA June 2015
+* **Schnelle Prototypen fuer intelligente Kleidung**. Multikonferenz Softwareengineering & Management (keynote), Dresden (Germany), March 2015
+* **End-user development of eTextiles**. Smart Space Orchestration Workshop with Intel Edison (invited talk), Munich, Germany, November 2014
+* **A quick prototyping tool for serious games with real time physics**. IADIS Mobile Learning (paper presentation), Berlin, Germany, Mar 2012
 

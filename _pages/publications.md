@@ -32,7 +32,6 @@ table:nth-of-type(4) td:nth-of-type(1) {
 
 ## Conference Papers
 
-
 | ![WDK](/images/publications_wdk.png)  | **Gait Analysis in Horse Sports** <br>  Echterhoff, J., **Haladjian, J.**, & Brügge, B. <br> Proceedings of the Fifth International Conference on Animal-Computer Interaction (p. 3). ACM, (2018)<br> [\[Paper\]](https://dl.acm.org/authorize?N699937){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
 | ![WDK](/images/publications_wdk.png)  | **Gait and Jump Classification in Modern Equestrian Sports** <br>  Echterhoff, J., **Haladjian, J.**, & Brügge, B. <br> Proceedings of the 2018 ACM International Symposium on Wearable Computers (pp. 88–91). ACM. (2018)<br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
 | ![WDK](/images/publications_wdk.png)  | **KneeHapp Textile: A Smart Textile System for Rehabilitation of Knee Injuries** <br>  **Haladjian, J.**, Bredies, K., & Brügge, B. <br> Proceedings of the 15th International Conference on Wearable and Implantable Body Sensor Networks (BSN) (pp. 9–12). IEEE)<br> [\[Paper\]](/publications/haladjianWDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjianWDK.bib){:target="_blank"}|
@@ -43,12 +42,14 @@ table:nth-of-type(4) td:nth-of-type(1) {
 
 
 ## Journal Articles
+
 | ![WDK](/images/publications_wdk.png)  | **The Wearables Development Toolkit: An Integrated Development Environment for Activity Recognition Applications** <br> **Haladjian, J.** <br> Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 3(4).<br> [\[Paper\]](/publications/haladjian19WDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjian19WDK.bib){:target="_blank"}|
 | ![WDK](/images/publications_wdk.png)  | **Sensor-based Detection and Classification of Soccer Goalkeeper Training Exercises** <br> **Haladjian, J.**, Schlabbers, D., Taheri, S., Tharr, M., & Brügge, B. <br> to appear in Proceedings of the ACM Transactions on Internet of Things. <br> [\[Paper\]](/publications/haladjian19goalkeeper.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjian19goalkeeper.bib){:target="_blank"}|
 | ![WDK](/images/publications_wdk.png)  | **A Wearable Sensor System for Lameness Detection in Dairy Cattle** <br> **Haladjian, J.**, Haug, J., Nüske, S., & Brügge, B. <br> Multimodal Technologies and Interaction, 2(2), 27.<br> [\[Paper\]](/publications/haladjian18lameness.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjian18lameness.bib){:target="_blank"}|
 
 
 ## Theses
+
 | ![WDK](/images/publications_wdk.png)  | **The Wearables Development Toolkit** <br> Habilitation (habil.), Technische Universität München), December 2019 <br> submitted. <br> [\[Paper\]](/publications/haladjian19habilitation.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjian19habilitation.bib){:target="_blank"}|
 | ![WDK](/images/publications_wdk.png)  | **TangoHapps: An Integrated Development Environment for Smart Textiles** <br> Doctoral dissertation (Dr. rer. nat), Technische Universität München, September 2016<br> [\[Paper\]](/publications/haladjian16tangohapps.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjian16tangohapps.bib){:target="_blank"}|
 | ![WDK](/images/publications_wdk.png)  | **A quick prototyping tool for serious games with real time physics** <br> Master thesis (M.Sc.), Technische Universität München, September 2011<br> [\[Paper\]](/publications/haladjian11thesis.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjian11thesis.bib){:target="_blank"}|

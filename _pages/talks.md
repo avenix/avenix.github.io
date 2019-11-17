@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-# Conferences / Workshops / Invited Talks
+## Conferences / Workshops / Invited Talks
 
 * **Animal Computer Interaction** <br> Haifa (Israel) November 2019
 * **Teaching Wearable Device Development with the Wearables Development Toolkit** <br> 2nd Workshop on Innovative Software Engineering in Education at Multikonferenz Softwareengineering & Management paper presentation, Stuttgart (Germany) February 2019
@@ -27,4 +27,7 @@ author_profile: true
 * **Schnelle Prototypen fuer intelligente Kleidung**. Multikonferenz Softwareengineering & Management (keynote), Dresden (Germany), March 2015
 * **End-user development of eTextiles**. Smart Space Orchestration Workshop with Intel Edison (invited talk), Munich, Germany, November 2014
 * **A quick prototyping tool for serious games with real time physics**. IADIS Mobile Learning (paper presentation), Berlin, Germany, Mar 2012
+
+## Teaching
+
 

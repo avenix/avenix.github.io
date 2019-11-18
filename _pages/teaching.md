@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Below is a list of my teaching activities (lecture courses, lab courses, seminars, summer schools):
+Below is a list of my teaching activities, including lecture and lab courses, seminars and summer schools:
 
 ## 2019
 * iOS Lab Course: [An iOS App to assess the laxity of a human knee after a knee injury](https://ase.in.tum.de/lehrstuhl_1/component/content/article/106-teaching/1063) (project leader)

@@ -1,11 +1,9 @@
 ---
-layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
-Below is a list of my teaching activities, including lecture and lab courses, seminars and summer schools:
+During my Ph.D. and post-doc at the Technical University of Munich, I have held lecture and lab courses, seminars and summer schools, which I list below.
 
 ## 2019
 * iOS Lab Course: [An iOS App to assess the laxity of a human knee after a knee injury](https://ase.in.tum.de/lehrstuhl_1/component/content/article/106-teaching/1063) (project leader)

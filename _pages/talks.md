@@ -15,32 +15,29 @@ author_profile: true
 * **ACM Intelligent User Interfaces Summer School** <br> *Rapid Prototyping of Smart Textiles* <br> Invited talk. Haifa (Israel), October 2018.
 * **Machine Learning for NeuroRehabilitation Workshop at International Conference on NeuroRehabilitation** <br> *Wearable Sensors for Patients* <br> Paper presentation. Pisa (Italy), October 2018.
 * **Second Workshop on Eye Wear Computing at International Symposium on Wearable Computers** <br> *IPRA: Real-Time Face Recognition on Smart Glasses with Fog Computing* <br> Paper presentation. Singapore, October 2018
-* **Wearable Sensor Applications for Humans and Animals** <br> BioMediTech Department at Tampere University of Technology (invited talk), Tampere (Finland), August 2018
-* **Tragbare Sensortechnologien fuer Menschen und Tiere** <br> RFID Netzwerkabend - Fachkonferenz (invited talk), Munich (Germany), July 2018
-* **Wearable Technologies for Patients** <br> Neuro-Kopf-Zentrum at Klinikum Rechts der Isar (invited talk), Munich (Germany), July 2018
-* **Neue Sensorentechnologien fuer Patienten** <br> Fachkonferenz at Münchner Kreis (invited talk), Munich (Germany), May 2018
-* **Wearable technology to support and assess rehabilitation after knee and hip surgeries**. Body Sensor Networks (invited talk), Las Vegas (USA), March 2018
-* **Wearable Device Applications for Humans and Animals** <br> Human Computer Interaction Institute at Carnegie Mellon University (invited talk), Pittsburgh (USA), March 2018
+* **BioMediTech Department at Tampere University of Technology** <br> *Wearable Sensor Applications for Humans and Animals* <br> Invited talk. Tampere (Finland), August 2018.
+* **RFID Netzwerkabend - Fachkonferenz** <br> *Tragbare Sensortechnologien fuer Menschen und Tiere* <br> Invited talk. Munich (Germany), July 2018.
+* **Neuro-Kopf-Zentrum at Klinikum Rechts der Isar** <br> *Wearable Technologies for Patients* <br> Invited talk, Munich (Germany), July 2018.
+* **Fachkonferenz at Münchner Kreis** <br> *Neue Sensorentechnologien fuer Patienten* <br> Invited talk. Munich (Germany), May 2018.
+* **Body Sensor Networks Conference** <br> *Wearable technology to support and assess rehabilitation after knee and hip surgeries* <br> Invited talk. Las Vegas (USA), March 2018.
+* *Human Computer Interaction Institute at Carnegie Mellon University* <br> *Wearable Device Applications for Humans and Animals* <br> Invited talk. Pittsburgh (USA), March 2018.
 
 ## 2017
 
-* **Gait Anomaly Detection in Dairy Cattle** <br> Animal Computer Interaction conference (paper presentation), Milton Keynes (United Kingdom), November 2017
-* **iPig: Towards Tracking the Behavior of Free-roaming Pigs** <br> Animal Computer Interaction conference (paper presentation), Milton Keynes (United Kingdom), November 2017
+* **Animal Computer Interaction Conference** <br> *Gait Anomaly Detection in Dairy Cattle* <br> Paper presentation. Milton Keynes (United Kingdom), November 2017.
+* **Animal Computer Interaction conference** <br> *iPig: Towards Tracking the Behavior of Free-roaming Pigs* <br> Paper presentation. Milton Keynes (United Kingdom), November 2017.
 
 ## 2016
-* **Interactex: An Integrated Development Environment for Smart Textiles** <br> International Symposium on Wearable Computers (paper presentation), Heidelberg (Germany) September 2016
+* **International Symposium on Wearable Computers** <br> *Interactex: An Integrated Development Environment for Smart Textiles* <br> Paper presentation. Heidelberg (Germany), September 2016.
 
 ## 2015
-* **TangoHapps: An Integrated Development Environment for Smart Garments.** <br> International Symposium on Wearable Computers (doctoral symposium paper presentation), Osaka (Japan), September 2015
-* **KneeHapp: A Bandage for Rehabilitation of Knee Injuries**. (invited talk at Intel), Santa Clara, USA June 2015
-* **Schnelle Prototypen fuer intelligente Kleidung**. Multikonferenz Softwareengineering & Management (keynote), Dresden (Germany), March 2015
+* **Doctoral Symposium at the International Symposium on Wearable Computers** <br> *TangoHapps: An Integrated Development Environment for Smart Garments* <br> Paper presentation. Osaka (Japan), September 2015.
+* **Intel** <br> *KneeHapp: A Bandage for Rehabilitation of Knee Injuries* <br> Invited talk. Santa Clara (USA), June 2015.
+* **Multikonferenz Softwareengineering & Management** <br> *Schnelle Prototypen fuer intelligente Kleidung* <br> Keynote demo. Dresden (Germany), March 2015.
 
 ## 2014
 
-* **End-user development of eTextiles**. Smart Space Orchestration Workshop with Intel Edison (invited talk), Munich, Germany, November 2014
+* **Smart Space Orchestration Workshop with Intel Edison** <br> *End-user development of eTextiles* <br> Invited talk. Munich (Germany), November 2014.
 
 ## 2012
-* **A quick prototyping tool for serious games with real time physics**. IADIS Mobile Learning (paper presentation), Berlin, Germany, Mar 2012
-
-
-
+* **IADIS Mobile Learning** <br >*A quick prototyping tool for serious games with real time physics* <br> Paper presentation. Berlin (Germany), March 2012.

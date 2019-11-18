@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Find me on [Google Scholar](https://scholar.google.de/citations?user=JHgSzRoAAAAJ&hl=en) for a detailed list of my publications.
+Find me on [Google Scholar](https://scholar.google.de/citations?user=JHgSzRoAAAAJ&hl=en) for a complete list of my publications.
 
 <style>
 table:nth-of-type(1), table:nth-of-type(2), table:nth-of-type(3), table:nth-of-type(4) {

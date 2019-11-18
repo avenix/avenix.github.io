@@ -4,6 +4,8 @@ title: "Portfolio"
 author_profile: true
 ---
 
+This page lists software I have developed since 2011. 
+
 ## The Wearables Development Toolkit
 The Wearables Development Toolkit (WDK) is a development environment for activity recognition applications with sensor signals I develoed during my post-doc at the Technical University of Munich. Visit the WDK's [GitHub page](https://github.com/avenix/WDK).
 

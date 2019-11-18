@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 ## 2019
-* **Animal Computer Interaction** <br> Haifa (Israel) November 2019
-* **Teaching Wearable Device Development with the Wearables Development Toolkit** <br> 2nd Workshop on Innovative Software Engineering in Education at Multikonferenz Softwareengineering & Management paper presentation, Stuttgart (Germany) February 2019
-* **Development Tools for Wearable Applications** <br> Ubiquitous Media Technology Lab at Deutsche Forschungsinstitut für Künstliche Intelligenz (invited talk), Saarbrücken (Germany), January 2019
+* **Animal Computer Interaction** <br> *Program committee and organizer* <br> Haifa (Israel), November 2019
+* **2nd Workshop on Innovative Software Engineering in Education at Multikonferenz Softwareengineering & Management** *Teaching Wearable Device Development with the Wearables Development Toolkit* <br> Paper presentation. Stuttgart (Germany), February 2019.
+* **Ubiquitous Media Technology Lab (Prof. Antonio Krügger) at DFKI** <br> *Development Tools for Wearable Applications* <br> Invited talk, Saarbrücken (Germany), January 2019
 
 ## 2018
 
-* **Rapid Prototyping of Smart Textiles** <br> ACM Intelligent User Interfaces Summer School (invited talk), Haifa (Israel) October 2018
-* **Wearable Sensors for Patients** <br> Machine Learning for NeuroRehabilitation workshop at International Conference on NeuroRehabilitation (paper presentation), Pisa (Italy), October 2018
-* **IPRA: Real-Time Face Recognition on Smart Glasses with Fog Computing** <br> Second Workshop on Eye Wear Computing at International Symposium on Wearable Computers (paper presentation), Singapore, October 2018
+* **ACM Intelligent User Interfaces Summer School** <br> *Rapid Prototyping of Smart Textiles* <br> Invited talk. Haifa (Israel), October 2018.
+* **Machine Learning for NeuroRehabilitation Workshop at International Conference on NeuroRehabilitation** <br> *Wearable Sensors for Patients* <br> Paper presentation. Pisa (Italy), October 2018.
+* **Second Workshop on Eye Wear Computing at International Symposium on Wearable Computers** <br> *IPRA: Real-Time Face Recognition on Smart Glasses with Fog Computing* <br> Paper presentation. Singapore, October 2018
 * **Wearable Sensor Applications for Humans and Animals** <br> BioMediTech Department at Tampere University of Technology (invited talk), Tampere (Finland), August 2018
 * **Tragbare Sensortechnologien fuer Menschen und Tiere** <br> RFID Netzwerkabend - Fachkonferenz (invited talk), Munich (Germany), July 2018
 * **Wearable Technologies for Patients** <br> Neuro-Kopf-Zentrum at Klinikum Rechts der Isar (invited talk), Munich (Germany), July 2018

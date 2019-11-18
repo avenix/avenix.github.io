@@ -17,6 +17,8 @@ Visit the WDK's [GitHub page](https://github.com/avenix/WDK)
 
 ## Interactex
 
+Interactex is an iOS-based rapid prototyping environment to create smart textile applications that interact with a smartphone.
+
  <iframe width="560" height="315"
 src="https://www.youtube.com/watch?v=y5ShpipZxvc" 
 frameborder="0" 

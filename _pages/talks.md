@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Conferences / Workshops / Invited Talks"
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+
+Below is a list of the conferences and workshops I attended and the talks / presentations I held:
 
 ## 2019
 * **Animal Computer Interaction** <br> *Program committee and organizer* <br> Haifa (Israel), November 2019

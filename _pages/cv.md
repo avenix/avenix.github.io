@@ -10,7 +10,7 @@ redirect_from:
 
 <style>
 td {
-  font-size: 14px
+  font-size: 16px
 }
 </style>
 

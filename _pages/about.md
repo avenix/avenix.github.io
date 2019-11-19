@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome"
-excerpt: "About me"
+excerpt: "Juan Haladjian's Website"
 author_profile: true
 redirect_from: 
   - /about/

@@ -4,7 +4,7 @@ title: "Portfolio"
 author_profile: true
 ---
 
-I absolutely love developing software. I work mostly with C++, Objective-C, Python and MATLAB. Find below my latest creations. 
+I absolutely love developing software. I have experience in C++, Objective-C, Python and MATLAB. Find below the latest software projects I have worked on lately. 
 
 ## The Wearables Development Toolkit
 The Wearables Development Toolkit (WDK) is a Matlab-based development environment for activity recognition applications with sensor signals. I developed it during my post-doc at the Technical University of Munich. For more information, read my [paper](https://www.jhaladjian.com/publications/haladjian19WDK.pdf), visit the WDK's [GitHub page](https://github.com/avenix/WDK).

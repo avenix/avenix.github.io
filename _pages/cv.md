@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV is available [here](/files/CV_Juan_Haladjian.pdf).
+You can find my full CV in this pdf: [CV_Juan_Haladjian.pdf](/files/CV_Juan_Haladjian.pdf).
 
 <style>
 td {

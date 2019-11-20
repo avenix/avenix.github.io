@@ -3,7 +3,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-During my Ph.D. and post-doc at the Technical University of Munich, I held a variety of lecture and lab courses, seminars and summer schools, as listed below.
+During my Ph.D. and post-doc at the Technical University of Munich, I held a variety of lecture and lab courses, seminars and summer schools, as listed below. For a full list of my teaching activities, have a look at my [CV](/files/CV_Juan_Haladjian.pdf).
 
 ## 2019
 * iOS Lab Course: [An iOS App to assess the laxity of a human knee after a knee injury](https://ase.in.tum.de/lehrstuhl_1/component/content/article/106-teaching/1063) (project leader)

@@ -3,7 +3,7 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-Below I list the talks I held in a variety of venues in English and German.
+Below you will find the list of presentations I held and conferences I attended since 2012.
 
 ## 2019
 * **Animal Computer Interaction Conference** <br> *Program committee and organizer* <br> Haifa (Israel), November 2019

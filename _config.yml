@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Juan Haladjian"
 title_separator          : "-"
 name                     : &name "Juan Haladjian"
-description              : &description "Post-doctoral research scientist at Technical University Munich"
+description              : &description "Software Engineer (iOS), Rsearch scientist"
 url                      : https://www.jhaladjian.com # the base hostname & protocol for your site"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Juan Haladjian"
   avatar           : "profile.png"
-  bio              : "Post-doctoral researcher in Software Engineering, Machine Learning, Human-Computer Interaction"
+  bio              : "Software Engineer (iOS), Research Scientist in Software Engineering, Machine Learning, Human-Computer Interaction"
   location         : "Munich, Germany"
   employer         :
   pubmed           :

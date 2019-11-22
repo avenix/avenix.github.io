@@ -7,7 +7,7 @@ author_profile: true
 I absolutely love developing software. I have experience in C++, Objective-C, Python and MATLAB. Find below the latest software projects I have worked on lately. 
 
 ## The Wearables Development Toolkit
-The Wearables Development Toolkit (WDK) is a Matlab-based development environment for activity recognition applications with sensor signals. I developed it during my post-doc at the Technical University of Munich. For more information, read my [paper](https://www.jhaladjian.com/publications/haladjian19WDK.pdf), visit the WDK's [GitHub page](https://github.com/avenix/WDK).
+The Wearables Development Toolkit (WDK) is a Matlab-based development environment for activity recognition applications with sensor signals. I developed it during my post-doc at the Technical University of Munich. For more information, read my [paper](https://www.jhaladjian.com/publications/haladjian19WDK.pdf) or visit the WDK's [GitHub page](https://github.com/avenix/WDK).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ow0b0vkciDs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -31,8 +31,8 @@ BLEFirmata is an App to control an Arduino board over Bluetooth 4.0 and the [Fir
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eQDlkB09Q3g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## KneeHapp
-KneeHapp is a smart bandage and iPad App to assess the performance of different exercises performed by patients after an Anterior Cruciate Ligament (ACL) injury. 
+KneeHapp is a smart bandage and iPad App to assess the performance of different rehabilitation exercises done by patients after an Anterior Cruciate Ligament (ACL) injury. 
 
-The bandage contains two IMUs and an integrated resistive pressure sensor made of textile material. The iPad App executes a series of signal processing and machine learning algorithms to compute specific performance metrics. For more information, check out my [paper](https://ieeexplore.ieee.org/document/8329646) and the article from .
+The bandage contains two inertial sensors and an integrated resistive pressure sensor made of textile material. The iPad App executes a series of signal processing and machine learning algorithms to compute specific performance metrics. For more information, check out my [paper](https://ieeexplore.ieee.org/document/8329646) and the article from .
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DcTXak0TPIo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

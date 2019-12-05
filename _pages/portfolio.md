@@ -4,17 +4,13 @@ title: "Portfolio"
 author_profile: true
 ---
 
-code {
-  ...
-  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
-}
-
-I absolutely love developing software. I have experience in C++, Objective-C, Python and MATLAB. Find below the latest software projects I have worked on lately. 
+Developing software is my passion. I have experience in C++, Objective-C, Python and MATLAB. Find below the latest software projects I have worked on lately. 
 
 ## The Wearables Development Toolkit
 The Wearables Development Toolkit (WDK) is a Matlab-based development environment for activity recognition applications with sensor signals. I developed it during my post-doc at the Technical University of Munich.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ow0b0vkciDs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 Code sample: 
 
@@ -47,7 +43,16 @@ featureNormalizer, classifier, postprocessor};
 algorithm = Computer.ComputerWithSequence(components);
 ```
 
-For more information, read my [paper](https://www.jhaladjian.com/publications/haladjian19WDK.pdf) or visit the WDK's [GitHub page](https://github.com/avenix/WDK).
+<pre>
+  <code class="Matlab">
+    components = {axisSelector, lowPassFilter, segmentation,  featureExtractor,...
+	 featureNormalizer, classifier, postprocessor};
+	 algorithm = Computer.ComputerWithSequence(components);
+  </code>
+</pre>
+
+
+For more information about the WDK, read my [paper](https://www.jhaladjian.com/publications/haladjian19WDK.pdf) or visit the WDK's [GitHub page](https://github.com/avenix/WDK).
 
 
 ## Interactex

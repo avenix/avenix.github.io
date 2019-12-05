@@ -7,7 +7,37 @@ author_profile: true
 I absolutely love developing software. I have experience in C++, Objective-C, Python and MATLAB. Find below the latest software projects I have worked on lately. 
 
 ## The Wearables Development Toolkit
-The Wearables Development Toolkit (WDK) is a Matlab-based development environment for activity recognition applications with sensor signals. I developed it during my post-doc at the Technical University of Munich. For more information, read my [paper](https://www.jhaladjian.com/publications/haladjian19WDK.pdf) or visit the WDK's [GitHub page](https://github.com/avenix/WDK).
+The Wearables Development Toolkit (WDK) is a Matlab-based development environment for activity recognition applications with sensor signals. I developed it during my post-doc at the Technical University of Munich. A sample recognition algorithm developed with the WDK is shown below:
+
+```matlab
+%select accelerometer x,y,z
+axisSelector = AxisSelector(1:3);
+
+%order=1, cutoff=20Hz
+lowPassFilter = LowPassFilter(1,20);
+
+%segmentSize=200, 50% overlapping
+segmentation = SlidingWindowSegmentation(488,244);
+
+%(min, max,...) on accel and gyro
+features = FeatureExtractor.DefaultFeatures();
+featureExtractor = FeatureExtractor(features,1:6);
+
+%computes normalization values
+featureNormalizer = FeatureNormalizer();
+featureNormalizer.fit(trainTable);
+
+%k=10, distanceMetric='euclidean'
+classifier = KNNClassifier(10,'euclidean');
+
+%windowSize=6, minimumCount=4
+postprocessor = LabelSlidingWindowMaxSelector(6,4);
+
+components = {axisSelector, lowPassFilter, segmentation,  featureExtractor, featureNormalizer, classifier, postprocessor};
+algorithm = Computer.ComputerWithSequence(components);
+```
+
+For more information, read my [paper](https://www.jhaladjian.com/publications/haladjian19WDK.pdf) or visit the WDK's [GitHub page](https://github.com/avenix/WDK).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ow0b0vkciDs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

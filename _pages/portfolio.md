@@ -4,6 +4,11 @@ title: "Portfolio"
 author_profile: true
 ---
 
+code {
+  ...
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
 I absolutely love developing software. I have experience in C++, Objective-C, Python and MATLAB. Find below the latest software projects I have worked on lately. 
 
 ## The Wearables Development Toolkit
@@ -12,8 +17,6 @@ The Wearables Development Toolkit (WDK) is a Matlab-based development environmen
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ow0b0vkciDs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Code sample: 
-
-<font size="14">
 
 ```matlab
 %select accelerometer x,y,z
@@ -43,7 +46,6 @@ components = {axisSelector, lowPassFilter, segmentation,  featureExtractor,...
 featureNormalizer, classifier, postprocessor};
 algorithm = Computer.ComputerWithSequence(components);
 ```
-</font>
 
 For more information, read my [paper](https://www.jhaladjian.com/publications/haladjian19WDK.pdf) or visit the WDK's [GitHub page](https://github.com/avenix/WDK).
 

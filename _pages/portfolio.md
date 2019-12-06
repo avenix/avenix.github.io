@@ -43,14 +43,6 @@ featureNormalizer, classifier, postprocessor};
 algorithm = Computer.ComputerWithSequence(components);
 ```
 
-<pre>
-  <code class="Matlab">
-    components = {axisSelector, lowPassFilter, segmentation,  featureExtractor,...
-	 featureNormalizer, classifier, postprocessor};
-	 algorithm = Computer.ComputerWithSequence(components);
-  </code>
-</pre>
-
 
 For more information about the WDK, read my [paper](https://www.jhaladjian.com/publications/haladjian19WDK.pdf) or visit the WDK's [GitHub page](https://github.com/avenix/WDK).
 

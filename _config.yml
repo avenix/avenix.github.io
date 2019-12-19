@@ -257,6 +257,7 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+url: "https://www.jhaladjian.com" # the base hostname & protocol for your site
 
 # Plugins
 plugins:
@@ -272,9 +273,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
-gems:
-  - jekyll-sitemap
 
 # Archives
 #  Type

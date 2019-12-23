@@ -31,7 +31,8 @@ featureExtractor = FeatureExtractor(features,1:6);
 classifier = KNNClassifier(10,'euclidean');
 
 %create algorithm
-components = {axisSelector, lowPassFilter, segmentation, featureExtractor, classifier};
+components = {axisSelector, lowPassFilter,...
+segmentation, featureExtractor, classifier};
 algorithm = Algorithm.AlgorithmWithSequence(components);
 ```
 

@@ -14,34 +14,26 @@ The Wearables Development Toolkit (WDK) is a Matlab-based development environmen
 
 
 ```matlab
-%select accelerometer x,y,z
+%select accelerometer signals
 axisSelector = AxisSelector(1:3);
 
-%order=1, cutoff=20Hz
+%low pass filter
 lowPassFilter = LowPassFilter(1,20);
 
-%segmentSize=200, 50% overlapping
-segmentation = SlidingWindowSegmentation(488,244);
+%segment signals in windows of 512 samples with 50% overlapping
+segmentation = SlidingWindowSegmentation(512,256);
 
 %(min, max,...) on accel and gyro
 features = FeatureExtractor.DefaultFeatures();
 featureExtractor = FeatureExtractor(features,1:6);
 
-%computes normalization values
-featureNormalizer = FeatureNormalizer();
-featureNormalizer.fit(trainTable);
-
-%k=10, distanceMetric='euclidean'
+%k-nearest neighbor classifier
 classifier = KNNClassifier(10,'euclidean');
 
-%windowSize=6, minimumCount=4
-postprocessor = LabelSlidingWindowMaxSelector(6,4);
-
-components = {axisSelector, lowPassFilter, segmentation,  featureExtractor,...
-featureNormalizer, classifier, postprocessor};
-algorithm = Computer.ComputerWithSequence(components);
+%create algorithm
+components = {axisSelector, lowPassFilter, segmentation, featureExtractor, classifier};
+algorithm = Algorithm.AlgorithmWithSequence(components);
 ```
-
 
 For more information about the WDK, read my [paper](https://www.jhaladjian.com/publications/haladjian19WDK.pdf) or visit the WDK's [GitHub page](https://github.com/avenix/WDK).
 

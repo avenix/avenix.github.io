@@ -42,7 +42,7 @@ table:nth-of-type(4) td:nth-of-type(1) {
 
 ## Journal Articles
 
-| ![WDK](/publications/haladjian19WDK.png)  | **The Wearables Development Toolkit: An Integrated Development Environment for Activity Recognition Applications** <br> **Haladjian, J.** <br> Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 3(4).<br> [\[Paper\]](/publications/haladjian19WDK.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjian19WDK.bib){:target="_blank"}|
+| ![WDK](/publications/haladjian19WDK.png)  | **The Wearables Development Toolkit: An Integrated Development Environment for Activity Recognition Applications** <br> **Haladjian, J.** <br> Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 3(4).<br> [\[Paper\]](https://dl.acm.org/doi/10.1145/3369813?cid=99658632441){:target="_blank"} [\[BibTeX\]](/publications/haladjian19WDK.bib){:target="_blank"}|
 | ![WDK](/publications/haladjian19goalkeeper.png)  | **Sensor-based Detection and Classification of Soccer Goalkeeper Training Exercises** <br> **Haladjian, J.**, Schlabbers, D., Taheri, S., Tharr, M., & Brügge, B. <br> to appear in Proceedings of the ACM Transactions on Internet of Things. <br> [\[Paper\]](/publications/haladjian19goalkeeper.pdf){:target="_blank"} [\[BibTeX\]](/publications/haladjian19goalkeeper.bib){:target="_blank"}|
 | ![WDK](/publications/haladjian18lameness.png)  | **A Wearable Sensor System for Lameness Detection in Dairy Cattle** <br> **Haladjian, J.**, Haug, J., Nüske, S., & Brügge, B. <br> Multimodal Technologies and Interaction, 2(2), 27.<br> [\[Paper\]](https://www.mdpi.com/2414-4088/2/2/27/htm){:target="_blank"} [\[BibTeX\]](/publications/haladjian18lameness.bib){:target="_blank"}|
 

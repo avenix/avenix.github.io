@@ -13,6 +13,7 @@ The Wearables Development Toolkit (WDK) is a Matlab-based development environmen
 
 
 
+
 ```matlab
 %select accelerometer signals
 axisSelector = AxisSelector(1:3);

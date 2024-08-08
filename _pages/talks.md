@@ -5,6 +5,9 @@ author_profile: true
 ---
 Below you will find the list of presentations I held and conferences I attended since 2012.
 
+## 2024
+* **ACL 2024** <br> On Efficient and Statistical Quality Estimation for Data Annotation <br> Paper presentation, Bangkok (Thailand), August 2024
+
 ## 2019
 * **Animal Computer Interaction Conference** <br> *Program committee and organizer* <br> Haifa (Israel), November 2019
 * **2nd Workshop on Innovative Software Engineering in Education at Multikonferenz Softwareengineering & Management** <br> *Teaching Wearable Device Development with the Wearables Development Toolkit* <br> Paper presentation. Stuttgart (Germany), February 2019.

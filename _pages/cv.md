@@ -16,7 +16,8 @@ td {
 }
 </style>
 
-| 10/2016 - present   | **Post-doctoral researcher** <br> [Chair for Applied Software Engineering](https://ase.in.tum.de/lehrstuhl_1/) <br> [Technische Universität München](www.tum.edu) <br> Munich, Germany  |  <img src="/images/cv_tum.png" alt="drawing" width="100"/> |
+| 3/2020 - present   | **ML Engineer** <br> [Apple](https://machinelearning.apple.com/) <br> [Apple](https://machinelearning.apple.com/) <br> Heidelberg, Germany  |  <img src="/images/apple.png" alt="drawing" width="100"/> |
+| 10/2016 - 3/2020   | **Post-doctoral researcher** <br> [Chair for Applied Software Engineering](https://ase.in.tum.de/lehrstuhl_1/) <br> [Technische Universität München](www.tum.edu) <br> Munich, Germany  |  <img src="/images/cv_tum.png" alt="drawing" width="100"/> |
 | 2/2018 - 3/2018   | **Post-doctoral researcher** <br> [Human Computer Interaction Institute](https://www.hcii.cmu.edu/) <br> [Carnegie Mellon University](https://www.cmu.edu/) <br> Pittsburgh, US  |  <img src="/images/cv_cmu.png" alt="drawing" width="100"/> |
 | 10/2011 - 10/2016  | **Research Assistant / PhD Candidate** <br>  [Chair for Applied Software Engineering](https://ase.in.tum.de/lehrstuhl_1/) <br> [Technische Universität München](www.tum.edu) <br> Munich, Germany |  <img src="/images/cv_tum.png" alt="drawing" width="100"/> |
 | 10/2009 - 10/2011  | **M.Sc. Computer Science (with distinction)** <br> [Technische Universität München](https://www.tum.de/) <br> Munich, Germany | <img src="/images/cv_tum.png" alt="drawing" width="100"/> |

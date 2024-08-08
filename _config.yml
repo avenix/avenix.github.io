@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Juan Haladjian"
 title_separator          : "-"
 name                     : &name "Juan Haladjian"
-description              : &description "Software Engineer, Research scientist"
+description              : &description "Machine Learning Engineer, Research scientist"
 url                      : https://www.jhaladjian.com # the base hostname & protocol for your site"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dr. Juan Haladjian"
   avatar           : "profile.png"
-  bio              : "Software Engineer (iOS), Research Scientist in Software Engineering, Machine Learning, Human-Computer Interaction"
-  location         : "Munich, Germany"
+  bio              : "Machine Learning Engineer / Researcher"
+  location         : "Heidelberg, Germany"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.de/citations?user=JHgSzRoAAAAJ&hl=en"
@@ -109,7 +109,6 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JuanHaladjian"
   vine             :
   weibo            :
   xing             :

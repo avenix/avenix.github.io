@@ -1,17 +1,10 @@
 This is the repository of my [Website](https://avenix.github.io/).
 
-## Install
+## Run locally
 
 ```
-brew install ruby
-brew install node
-gem install bundler
+bundle install
+bundle exec jekyll serve -l -H localhost
 ```
 
-Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-
-## Test
-
-```
-jekyll serve -l -H localhost
-```
+If `bundle install` fails, delete `Gemfile.lock` and try again.

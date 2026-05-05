@@ -10,8 +10,15 @@ redirect_from:
 
 I am a Machine Learning Engineer at Apple, previously post-doctoral researcher at the [Chair for Applied Software Engineering](https://ase.in.tum.de/lehrstuhl_1/) at the [Technical University of Munich](http://www.tum.de/). I have over 15 years experience conducting research in data-centric machine learning.
 
-## Research Interests
-My current research area is on efficient data annotation. I work on methods to 1) **save annotation costs**, e.g. using models in the annotation loop,  semi-supervised learning or active learning and 2) **improve annotation quality**, e.g. with consensus and ensemble methods to aggregate annotations from multiple graders or more advanced methods, such as LLM as a judge. Previously, I worked on activity recognition methods for devices with limited compute capabilities such as wearable and mobile devices. 
+## Skills
+
+**Agentic AI** — Agentic workflow design, evaluation and optimization for latency, cost and predictive power. MCP service and Skill creation, deployment and maintenance.
+
+**ML Lifecycle and Evaluation** — Multi-modal LLM evaluation design, online and offline metrics definition, error analysis.
+
+**Data-centric AI** — Data annotation, generation, curation at scale, data quality assessment, insight generation, active learning, statistical methods, A/B testing.
+
+**Software Engineering** — Full-stack: Backend (Python), Frontend (JavaScript / React) with all the related tooling: Dockerization, Linting, Testing, CI/CD, etc. Familiar with AWS stack. 
 
 
 ## Brief Bio

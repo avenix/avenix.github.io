@@ -8,8 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my full CV in this pdf: [CV_Juan_Haladjian.pdf](/files/CV_Juan_Haladjian.pdf).
-
 <style>
 td {
   font-size: 16px
